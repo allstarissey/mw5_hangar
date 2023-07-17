@@ -1,7 +1,4 @@
 /target
 /test
-<<<<<<< HEAD
-=======
 /.vscode
 /Cargo.lock
->>>>>>> 514feef (Initial commit)
